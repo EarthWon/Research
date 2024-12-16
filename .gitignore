@@ -1,0 +1,11 @@
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+./ESG_Evaluation/data_collection/glass_door/company_review_data/
+./ESG_Evaluation/data_collection/glass_door/company_urls
+./ESG_Evaluation/data_collection/glass_door/tmp_company_review
